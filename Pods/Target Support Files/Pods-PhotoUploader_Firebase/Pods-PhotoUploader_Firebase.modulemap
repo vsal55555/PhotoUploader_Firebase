@@ -1,0 +1,6 @@
+framework module Pods_PhotoUploader_Firebase {
+  umbrella header "Pods-PhotoUploader_Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
